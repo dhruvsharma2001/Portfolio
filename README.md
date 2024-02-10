@@ -1,4 +1,4 @@
-Hi, This is the Personal Portf:star2:lio site for Dhruv Sharma, built with Bootstrap and a lot of love
+Hi, This is the Personal Portfolio site for Dhruv Sharma, built with Bootstrap and a lot of love
 
 DEMO:https://dhruvsharma05.netlify.app/
 
